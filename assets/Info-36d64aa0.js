@@ -1,0 +1,1 @@
+import{H as n}from"./HelloWorld-76b47346.js";import{d as s,_ as r,r as t,o as a,c}from"./index-b31dc47c.js";const l=s({name:"Info",components:{HelloWorld:n},setup(){return{msg:"Information"}}});function m(o,p,f,_,d,i){const e=t("HelloWorld");return a(),c(e,{msg:o.msg},null,8,["msg"])}const H=r(l,[["render",m]]);export{H as default};
